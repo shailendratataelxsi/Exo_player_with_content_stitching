@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string-array name="source_options">
+        <item>Offline</item>
+        <item>Online</item>
+    </string-array>
+</resources>
