@@ -8,7 +8,7 @@ This project demonstrates a basic video player implementation using **ExoPlayer*
 
 ### Dependency: Add Required Video Files
 
-To ensure the project runs as expected, you must add two required video files to the `res/raw` folder in your Android project:
+To ensure the project runs as expected, you must add below required stream and ads files to the `res/raw` folder in your Android project:
 
 1. `main_content.mp4`
 2. `ad_5s.mp4`
