@@ -45,9 +45,5 @@ dependencies {
     implementation("androidx.media3:media3-exoplayer:$media3_version")
     implementation("androidx.media3:media3-ui:$media3_version")
     implementation("androidx.media3:media3-common:$media3_version")
-    implementation("androidx.media3:media3-exoplayer-dash:$media3_version")
-    implementation("androidx.media3:media3-exoplayer-hls:1.3.1")
 
-    implementation ("com.google.android.exoplayer:exoplayer-core:2.13.3")
-    implementation ("com.google.android.exoplayer:exoplayer-ui:2.13.3")
 }
